@@ -1,2 +1,3 @@
-# references
-Bibtex references
+# References
+
+Bibtex references for visualization publications — Edit
